@@ -1,0 +1,72 @@
+gnr638_assignment01/
+│
+├── 📄 README.md                       # Main documentation (GitHub front page)
+├── 📖 USAGE.md                        # Detailed usage instructions
+├── 🐙 GITHUB_SETUP.md                 # Step-by-step GitHub setup guide
+├── 📊 PROJECT_SUMMARY.md              # Complete project overview
+├── ⚡ QUICK_REFERENCE.md              # Quick reference guide
+├── 📋 DIRECTORY_TREE.txt              # This file
+│
+├── 💻 assignment01_final_codes.ipynb  # ⭐ MAIN CODE - RUN THIS
+├── ⚙️  config.py                       # Configuration settings
+├── 🚀 quick_start.py                  # Quick demo script (executable)
+├── 🔧 setup.sh                        # Setup script (executable)
+│
+├── 📦 requirements.txt                # Dependencies (opencv-python)
+├── 📜 LICENSE                         # MIT License
+│
+├── 🙈 .gitignore                      # Git ignore rules
+├── 📝 .gitattributes                  # Line ending configuration
+│
+└── 🖼️  repository_structure.png       # Visual reference image
+
+────────────────────────────────────────────────────────────────
+
+📁 Directory Summary:
+  • Total Files: 13
+  • Documentation: 6 files
+  • Code Files: 3 files (1 notebook, 2 scripts)
+  • Config Files: 4 files
+
+🎯 Key Files to Know:
+  1. assignment01_final_codes.ipynb ← Start here for training
+  2. QUICK_REFERENCE.md             ← Fast overview
+  3. config.py                      ← Edit your paths here
+  4. GITHUB_SETUP.md                ← Push to GitHub guide
+
+📚 Documentation Files:
+  • README.md          → GitHub landing page
+  • USAGE.md           → How to use everything
+  • PROJECT_SUMMARY.md → Technical details
+  • QUICK_REFERENCE.md → Fast lookup
+  • GITHUB_SETUP.md    → Git instructions
+
+💡 Setup Scripts:
+  • setup.sh        → Automated setup (Linux/Mac)
+  • quick_start.py  → Quick demo
+
+⚙️ Configuration:
+  • config.py           → Settings
+  • requirements.txt    → Dependencies
+  • .gitignore          → Git exclusions
+  • .gitattributes      → Line endings
+
+────────────────────────────────────────────────────────────────
+
+🚀 Quick Start:
+  1. pip install -r requirements.txt
+  2. Edit config.py with your data paths
+  3. jupyter notebook assignment01_final_codes.ipynb
+  4. Run all cells
+
+🐙 GitHub Push:
+  1. git init
+  2. git add .
+  3. git commit -m "Initial commit"
+  4. git remote add origin <your-repo-url>
+  5. git push -u origin main
+
+────────────────────────────────────────────────────────────────
+
+This directory is ready to push to GitHub! 🎉
+See GITHUB_SETUP.md for detailed instructions.
