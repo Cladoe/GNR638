@@ -63,24 +63,6 @@ python train.py --data_path /path/to/dataset --epochs 2 --batch_size 256 --lr 0.
 python evaluate.py --data_path /path/to/dataset --model_path model.pkl
 ```
 
-### Jupyter Notebook
-
-For a complete walkthrough, see `assignment01_final_codes.ipynb`
-
-## File Structure
-
-```
-gnr638_assignment01/
-├── train.py                  # Training script
-├── evaluate.py               # Evaluation script
-├── model.py                  # Model architecture
-├── layers.py                 # Layer implementations
-├── utils.py                  # Helper functions
-├── assignment01_final_codes.ipynb  # Complete notebook
-├── README.md                 # This file
-└── requirements.txt          # Dependencies
-```
-
 ## Technical Details
 
 - **Optimizer**: SGD with learning rate 0.08
