@@ -1,4 +1,4 @@
-# GNR638 Project 2: Deep Learning MCQ Image Answering
+# GNR638 Project (Group 62): Deep Learning MCQ Image Answering
 
 This project predicts answers for PNG images containing deep-learning multiple-choice questions.
 
